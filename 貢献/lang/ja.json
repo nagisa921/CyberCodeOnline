@@ -753,7 +753,7 @@
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "劣化したナノ修理ボット、通常は小さな機器を修理するために使用される",
+ 	 	 	 	"trans": "劣化したナノリペアボット、通常は小さな機器を修理するために使用される",
  	 	 	 	"eng": "An old nano repair bot, usually used to repair small tech devices."
  	 	 	}
  	 	},
@@ -833,13 +833,13 @@
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "手入れされていない修理用ドローン。周辺のプレーヤーを修理または治療することができる",
+ 	 	 	 	"trans": "手入れされていないリペアドローン。周辺のプレーヤーを修理または治療することができる",
  	 	 	 	"eng": "Old repair drone, capable of repairing or heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "旧式のナノメディックドローン",
+ 	 	 	 	"trans": "劣化したナノメディックドローン",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {

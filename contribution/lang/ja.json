@@ -7175,31 +7175,31 @@
  	 	},
  	 	"common": {
  	 	 	"name": {
- 	 	 	 	"trans": "普通の",
+ 	 	 	 	"trans": "一般的",
  	 	 	 	"eng": "common"
  	 	 	}
  	 	},
  	 	"highQuality": {
  	 	 	"name": {
- 	 	 	 	"trans": "高品質な",
+ 	 	 	 	"trans": "高品質",
  	 	 	 	"eng": "high quality"
  	 	 	}
  	 	},
  	 	"rare": {
  	 	 	"name": {
- 	 	 	 	"trans": "珍しい",
+ 	 	 	 	"trans": "レア",
  	 	 	 	"eng": "rare"
  	 	 	}
  	 	},
  	 	"legendary": {
  	 	 	"name": {
- 	 	 	 	"trans": "伝説の",
+ 	 	 	 	"trans": "伝説",
  	 	 	 	"eng": "legendary"
  	 	 	}
  	 	},
  	 	"epic": {
  	 	 	"name": {
- 	 	 	 	"trans": "英雄の",
+ 	 	 	 	"trans": "英雄",
  	 	 	 	"eng": "epic"
  	 	 	}
  	 	}
